@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Shree Ramkrishna Jambhekar Maharaj Samadhi Mandir</title>
+  <!-- Link the external CSS -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    Shree Ramkrishna Jambhekar Maharaj Samadhi Mandir
+    <button id="langToggle">मराठी</button>
+  </header>
+
+  <nav>
+    <a href="#photos">Photos</a>
+    <a href="#biography">Biography</a>
+    <a href="#samadhi">Samadhi Mandir</a>
+    <a href="#small-temples">Small Temples</a>
+    <a href="#events">Events</a>
+    <a href="#books">Books</a>
+    <a href="#contact">Contact</a>
+    <a href="#donate">Donate</a>
+    <a href="#location">Location</a>
+  </nav>
+
+  <main>
+   <main>
+    <!-- Photos -->
+    <section id="photos">
+      <h2>Photo Gallery</h2>
+      <div class="gallery">
+        <div class="slider">
+          <img src="C:\Users\soham\Desktop\jambekar maharj website devlopment\mandir entrance image .jpeg">
+          <img src="https://sannidhi.net/wp-content/uploads/2023/04/6D4FC4ED-C7D2-4048-B52B-37B6AB91313D.jpeg">
+          <img src="C:\Users\soham\Desktop\jambekar maharj website devlopment\TEMPLE VIEW WITH KALAS .png">
+          <img src="C:\Users\soham\Desktop\jambekar maharj website devlopment\IMG-20250701-WA0015[1].jpg">
+          <!-- Repeat if needed for smooth loop -->
+          <img src="C:\Users\soham\AppData\Local\Microsoft\Windows\INetCache\IE\3TG1CCF5\IMG-20250701-WA0025[1].jpg">
+          <img src="C:\Users\soham\AppData\Local\Microsoft\Windows\INetCache\IE\5ZUGX1TQ\IMG-20250701-WA0019[1].jpg">
+          <img src="C:\Users\soham\AppData\Local\Microsoft\Windows\INetCache\IE\PBUIY5I3\IMG-20250701-WA0022[1].jpg">
+        </div>
+      </div>
+    </section>
+  <!-- Biography -->
+    <section id="biography">
+      <h1>About Maharaj</h1>
+      <p class="lang-en">Shri Ramkrishna Jambhekar Maharaj was a noble saint and a devoted follower of Lord Dattatreya and Swami Samarth of Akkalkot.
+He dedicated his entire life to spiritual practice and service to humanity.
+Born in Maharashtra, he spread the message of devotion and selfless service.
+Maharaj was known for his humility, simplicity, and deep compassion for all beings.
+He guided countless devotees on the path of righteousness and faith.
+He often emphasized truth, charity, and remembrance of God.
+People believe he performed many miracles to protect and bless his devotees.
+His words and presence gave hope and strength to the needy.
+Through his blessings, many found relief from troubles and gained spiritual wisdom.
+He had immense faith in Swami Samarth and always encouraged devotees to surrender to the Guru.
+His Samadhi Mandir is a sacred place where devotees come to seek blessings.
+The temple atmosphere is filled with peace and devotion.
+Devotees celebrate his life and teachings with great respect every year.
+His legacy continues to inspire generations towards a pure and meaningful life.
+Even today, his devotees believe he protects them like a loving guardian.
+Maharaj’s life shows us the power of faith, service, and surrender to the Divine.</p>
+      <p class="lang-mr" style="display: none;">श्री रामकृष्ण जम्भेकर महाराज हे थोर संत व श्री दत्तात्रेय व अक्कलकोट स्वामी समर्थ यांचे परम भक्त होते.
+त्यांनी आपले संपूर्ण जीवन भक्ती व सेवेत व्यतीत केले.
+महाराष्ट्रात जन्मलेले महाराज भक्ती व सेवाभावाचा संदेश सर्वत्र पसरवत होते.
+त्यांचे जीवन साधेपणा, विनम्रता व करुणा यांचे उत्तम उदाहरण होते.
+अनेकांना त्यांनी धर्म, श्रद्धा व सदाचाराचा मार्ग दाखवला.
+त्यांनी सत्य, दानधर्म व ईश्वरस्मरण यावर भर दिला.
+भक्तांचे संकट दूर करण्यासाठी अनेक चमत्कार घडल्याची आख्यायिका आहे.
+त्यांच्या सान्निध्यात लोकांना आधार व समाधान मिळायचे.
+त्यांच्या आशीर्वादामुळे अनेकांना समस्यांवर मात करता आली.
+स्वामी समर्थांवर त्यांची अढळ श्रद्धा होती.
+गुरुचरणी शरण जावे हेच त्यांनी नेहमी सांगितले.
+आजही त्यांचे समाधी मंदिर श्रद्धेचे ठिकाण आहे.
+भक्तगण समाधीस्थळी जाऊन आशीर्वाद घेतात.
+मंदिराचा परिसर शांततेने व भक्तिभावाने नटलेला असतो.
+प्रत्येक वर्षी महाराजांची पुण्यतिथी भक्तिभावाने साजरी केली जाते.
+त्यांची शिकवण आजही नवे पिढ्यांना प्रेरणा देते.
+भक्तांना ते आजही रक्षण करतात असा दृढ विश्वास आहे.
+त्यांचे जीवन श्रद्धा, सेवा व भक्तीचा आदर्श आहे.</p>
+    </section>
+
+    <!-- Samadhi Mandir -->
+    <section id="samadhi">
+      <h2>Samadhi Mandir</h2>
+      <p class="lang-en">Shri Ramkrishna Jambhekar Maharaj’s Samadhi Mandir in Dadar is a small but powerful place of peace hidden amidst Mumbai’s busy life.
+Many people pass by daily without knowing the divine presence it holds.
+Inside the Mandir, the calm atmosphere gives instant relief from the city’s noise and stress.
+Elderly devotees sit here for hours, praying silently for their family’s well-being.
+Young students come to seek blessings for exams, jobs, and future goals.
+Local families believe Maharaj’s blessings protect their home from problems and bring harmony.
+There are countless stories of people who faced tough times and found hope here.
+Some say Maharaj appears in dreams when people are confused or worried.
+It is not about big miracles alone people feel he listens to small prayers too.
+During festivals, bhajans and simple rituals bring the community together like one family.
+Anyone, regardless of caste or background, can sit in front of Maharaj’s Samadhi and find peace.
+Many devotees visit Siddhivinayak first and then come here to complete their prayers.
+The temple trust helps keep the place clean and open for all who wish to visit.
+Small offerings like flowers, coconuts, and prayers are enough to feel connected.
+This Mandir reminds us that faith does not need a grand building it needs true devotion.
+As more people learn about Maharaj’s life, this humble Samadhi Mandir will keep giving strength and hope to all who come with faith.</p>
+      <p class="lang-mr" style="display: none;">दादर येथील श्री रामकृष्ण जम्भेकर महाराजांचे समाधी मंदिर हे मुंबईच्या धकाधकीच्या जीवनातही शांतीचं ठिकाण आहे.
+दररोज शेकडो लोक मंदिराजवळून जातात, पण इथे असलेली पवित्र ऊर्जा अनेकांना अजून माहित नाही.
+मंदिरात पाऊल ठेवताच शहराची गोंधळाट आपोआप दूर होते व मनाला शांती मिळते.
+वृद्ध भक्त येथे तासनतास बसून आपल्या कुटुंबासाठी प्रार्थना करतात.
+विद्यार्थी परीक्षा, नोकरी व करिअरसाठी महाराजांचे आशीर्वाद मागायला येतात.
+स्थानिक कुटुंबांना वाटते की महाराजांचे आशीर्वाद घरात सुखशांती ठेवतात व संकटे टळतात.
+कित्येकांनी कठीण प्रसंगातून इथेच नवसंजीवनी मिळवली आहे.
+काहींना स्वप्नात महाराज दर्शन देऊन योग्य दिशा दाखवतात असे अनुभव आहेत.
+मोठे चमत्कार नव्हे, तर लहानशा प्रार्थनाही इथे ऐकल्या जातात असा भक्तांचा विश्वास आहे.
+सणासुदीला भजन, कीर्तन यामुळे परिसर भक्तिमय होतो व सगळे एक कुटुंब होतात.
+जात-पात नसून कोणीही महाराजांच्या समाधीसमोर बसू शकतो.
+अनेकजण सिद्धिविनायकचे दर्शन घेतल्यावर इथे येऊन प्रार्थना पूर्ण करतात.
+ट्रस्टकडून मंदिर स्वच्छ ठेवले जाते व प्रत्येकासाठी खुले ठेवले जाते.
+फुले, नारळ, प्रसाद एवढेच पुरेसे आहे इथे श्रद्धा जोडण्यासाठी.
+हे समाधी मंदिर सांगते की मोठी इमारत नसेल तरी खरी भक्ती असेल तर देव जवळ असतो.
+महाराजांचे जीवन अधिक लोकांपर्यंत पोहोचले तर हे साधे समाधी मंदिर अनेकांना आधार देत राहील. </p>
+    </section>
+
+    <!-- Small Temples -->
+    <section id="small-temples">
+      <h2>Temples within the Mandir Premises</h2>
+      <div class="temples">
+        <div class="temple">
+          <img src="C:\Users\soham\AppData\Local\Microsoft\Windows\INetCache\IE\PBUIY5I3\IMG-20250701-WA0022[1].jpg">
+          <h3>Namdev Maharaj Kelkar</h3>
+          <p class="lang-en">Namdev Maharaj Kelkar was one of Shri Jambhekar Maharaj’s foremost disciples. He exemplified simple, humble devotion and service. In the early years of the Siddhivinayak Ganapati Temple at Prabhadevi, Maharaj entrusted Namdev Kelkar with the responsibility of daily worship and puja. Living as a lifelong “sevak” (servant), Namdev Maharaj followed his guru’s teachings in devotion and service. A memorial shrine for Shri Namdev Maharaj Kelkar stands in the ashram complex, honoring his dedication and inspiring devotees with his example of love and humility in spiritual life.</p>
+          <p class="lang-mr" style="display: none;">नामदेव महाराज केळकर हे श्रीरामकृष्ण जांभेकर महाराजांचे आदरणीय शिष्य होते.ते अत्यंत साध्या आणि भक्तिभावपूर्ण जीवनाचे आदर्श होते. प्रभादेवी येथील श्री सिद्धिविनायक गणपती मंदिराच्या स्थापनेसाठी जांभेकर महाराजांनी नामदेव महाराजांना नित्यपूजा सांभाळण्याची जबाबदारी दिली. जीवनभर सेवाकाळात ते गुरूंच्या शिकवणुकीनुसार नम्रतेने भक्ती आणि सेवा करत होते. मंदिर परिसरात त्यांना समर्पित विशेष मंदिर असून, त्यांच्‍या सेवाभाव आणि भक्तीमय जीवनाचे स्मरण करून दिले जाते.</p>
+        </div>
+        <div class="temple">
+          <img src="C:\Users\soham\AppData\Local\Microsoft\Windows\INetCache\IE\3TG1CCF5\IMG-20250701-WA0025[1].jpg">
+          <h3>Kashi Bai Chavan</h3>
+          <p class="lang-en">(Mahayogini Kashitai) was the principal female disciple and later successor of Shri Jambhekar Maharaj.Born in 1901 into a very poor Konkan family, she faced great personal loss early in life: after marriage she lost her husband and then her only son. Seeking spiritual purpose, Kashibai came to Jambhekar Maharaj’s ashram and dedicated herself entirely to Guru’s guidance.She lived by the motto “Seva hi Sadhana” (“Service is the highest sadhana”)
+and organized many charitable and devotional activities through the math. By rigorous practice she attained many siddhis (spiritual powers) and alleviated the suffering of numerous sick and afflicted people Deeply compassionate and wise, Mahayogini Kashibai continued the work of the ashram and its community service until she took nirvana at the age of 74
+A temple in the ashram now honors Kashi Bai Chavan’s life of devotion, encouraging devotees by her example.</p>
+          <p class="lang-mr" style="display: none;">काशीबाई चव्हाण (महायोगिनी काशीताई) या श्रीरामकृष्ण जांभेकर महाराजांच्या मुख्य शिष्यांपैकी होत्या त्या १९०१ साली कोकणातील अत्यंत गरीब कुटुंबात जन्मल्या. वयात लहान असतानाच त्यांच्या पतीचा आणि नंतर मुलाचा अकस्मात मृत्यू झाला. त्या जांभेकर महाराजांच्या मठात आल्या आणि गुरूंच्या मार्गदर्शनाखाली संपूर्णतः अध्यात्मिक जीवनाप्रत वचनबद्ध झाल्या काशीबाई महाराजांनी ‘सेवा ही साधना’ हे तत्त्व अंगीकारले आणि मठातून समाजसेवी तसेच अध्यात्मिक उपक्रम राबविले त्यांनी कठोर साधनेने अनेक सिद्धी प्राप्त केल्या आणि आजारी, दुःखी लोकांचे दु:ख दूर केले
+गुरुपरंपरेचे कार्य ते अखंडरीत्या करत राहिल्या आणि ७४ वर्षांच्या वयात त्यांची अखंड समाधी झाली
+मठ परिसरातील त्यांच्या मंदिरात काशीबाई महाराजांची भक्तीमय सेवा-साधनेची आठवण जपा­­ती असते.</p>
+        </div>
+        <div class="temple">
+          <img src="C:\Users\soham\AppData\Local\Microsoft\Windows\INetCache\IE\5ZUGX1TQ\IMG-20250701-WA0019[1].jpg">
+          <h3>Appa Maharaj Kelkar</h3>
+          <p class="lang-en">Appa Maharaj Kelkar (also known as Appa Jagdale) is the present custodian of Shri Jambhekar Maharaj’s Dadar ashram A devoted priest, he maintains the temple and leads the local spiritual activities in the guru’s tradition. Under his guidance, the ashram continues the legacy of seva (selfless service) and daily worship established by his predecessors. A shrine for Appa Maharaj stands on the premises in recognition of his ongoing work: through his example of faithful dedication, he helps guide modern devotees along the path lit by Shri Jambhekar Maharaj.</p>
+          <p class="lang-mr" style="display: none;">आप्पा महाराज केळकर (जगडाळे) हे आजही श्रीरामकृष्ण जांभेकर महाराजांच्या दादरमठाचे सेवक आहेत
+ते मंदिराचे सांभाळ आणि भक्तांमध्ये गुरूंच्या शिकवणुकीची परंपरा पुढे नेण्यासाठी दिनचर्या चालवतात. त्यांच्या मार्गदर्शनाखाली मठामध्ये पूर्वीप्रमाणे सेवा आणि नियमित उपासनेचे कार्य सुरु आहे. मठात आप्पा महाराजांना समर्पित मंदिर असून त्यांचा भक्ती आणि कार्य यांचा गौरव करण्यासाठी तेथे त्यांच्या नावाची स्थापना करण्यात आली आहे. त्यांच्या सातत्यपूर्ण समर्पणामुळे आणि नम्रतेमुळे अनेक भाविकांना जांभेकर महाराजांच्या मार्गदर्शनात चालण्यासाठी प्रेरणा मिळते.</p>
+        </div>
+      </div>
+    </section><!-- Events -->
+    <section id="events">
+      <h2>Events & Celebrations</h2>
+      <p class="lang-en">Stay tuned for upcoming events and spiritual programs.</p>
+      <p class="lang-mr" style="display: none;">आगामी कार्यक्रम आणि आध्यात्मिक उपक्रमासाठी संपर्कात रहा.</p>
+    </section>
+
+    <!-- Books Section -->
+  <section id="books">
+  <h2>Books & Publications</h2>
+  <div class="books">
+
+    <!-- Book 1: Divine Life of Maharaj -->
+    <div class="book">
+      <img src="C:\Users\soham\Desktop\jambekar maharj website devlopment\MAHARJ BOOK .jpeg" alt="Divine Life of Maharaj">
+      <h3>Divine Life of Maharaj</h3>
+      <p class="lang-en">Brief biography of His Holiness Sri Ramakrishna Maharaj Jambhekar.</p>
+      <p class="lang-mr" style="display: none;">संत श्री रामकृष्ण महाराज जांभेकर यांची संक्षिप्त चरित्र.</p>
+    </div>
+
+    <!-- Book 2: Namdev Maharaj Kelkar Temple -->
+    <div class="book">
+      <img src="https://5.imimg.com/data5/II/II/GLADMIN-/h-h-namdeo-maharaj-kelkar-charitra-in-marathi-500x500.jpg" alt="Namdev Maharaj Kelkar Charitra">
+      <h3>Namdev Maharaj Kelkar Temple</h3>
+      <p class="lang-en">A detailed account of the traditions and history of Namdev Maharaj Kelkar Temple.</p>
+      <p class="lang-mr" style="display: none;">नामदेव महाराज केळकर मंदिराची परंपरा आणि इतिहास यांचे सविस्तर विवरण.</p>
+    </div>
+
+    <!-- Book 3: Appa Maharaj Kelkar Temple -->
+    <div class="book">
+      <img src="C:\Users\soham\Desktop\jambekar maharj website devlopment\appa mharj kelkar .jpg" alt="Appa Maharaj Kelkar Temple">
+      <h3>Appa Maharaj Kelkar Temple</h3>
+      <p class="lang-en">Stories and history related to Appa Maharaj Kelkar Temple within the premises.</p>
+      <p class="lang-mr" style="display: none;">अप्पा महाराज केळकर मंदिराशी संबंधित कथा आणि इतिहास.</p>
+    </div>
+
+    <!-- Book 4: Sanjeevan Lahari (Quarterly Magazine) -->
+    <div class="book">
+      <img src="C:\Users\soham\Desktop\jambekar maharj website devlopment\sanjjevan lahari image masik .jpeg" alt="Sanjeevan Lahari Magazine">
+      <h3>Sanjeevan Lahari</h3>
+      <p class="lang-en">Quarterly magazine with events, stories, and devotees’ experiences.</p>
+      <p class="lang-mr" style="display: none;">दर तीन महिन्यांनी प्रकाशित होणारे संजीवन लहरी मासिक - कार्यक्रम, कथा व भक्तांचे अनुभव.</p>
+    </div>
+
+<!-- Book 5: Kashi Bai Chavan Temple -->
+<div class="book">
+  <img src="C:\Users\soham\Desktop\jambekar maharj website devlopment\IMG-20250701-WA0015[1].jpg">
+  <h3>Kashi Bai Chavan Temple</h3>
+  <p class="lang-en">Insights into the life and service of Kashi Bai Chavan and the temple within the premises.</p>
+  <p class="lang-mr" style="display: none;">काशी बाई चव्हाण यांचे जीवन व सेवेचे विवरण व मंदिराची माहिती.</p>
+</div>
+
+  </div>
+</section>
+
+    <!-- Contact -->
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p>Email: jambhekarmaharaj@gmail.com</p>
+      <p>Phone: +91 9768203033</p>
+      <p>Address: Jambhekar Maharaj Path, Near Post Office, Dadar, Mumbai, Maharashtra 400028</p>
+    </section>
+
+    <!-- Donate -->
+   <section id="donate">
+  <h2>Donate</h2>
+  <p class="lang-en">
+    Support the temple’s rituals and community work. Scan the QR code of your chosen amount. 🙏
+  </p>
+  <p class="lang-mr" style="display: none;">
+    मंदिराच्या पूजाअर्चा व समाजसेवेसाठी आपला सहभाग महत्वाचा आहे. आपल्याला योग्य रक्कमेचा QR कोड स्कॅन करा. 🙏
+
+    </div>
+  </div>
+</section>
+
+    <!-- Location -->
+    <section id="location">
+      <h2>Temple Location</h2>
+      <div class="map-container">
+       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d942.9761751186569!2d72.8338348216717!3d19.023920593002376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7cecf34db682b%3A0x5399fe457b92a89b!2sShree%20Ramkrishna%20Jambhekar%20Maharaj%20Samadhi%20Mandir!5e0!3m2!1sen!2sin!4v1750222975656!5m2!1sen!2sin" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div>
+    </section>
+  </main>
+  <footer>
+    © 2025 Shree Ramkrishna Jambhekar Maharaj Samadhi Mandir. All rights reserved.
+  </footer>
+
+  <!-- Link the external JavaScript -->
+  <script src="script.js"></script>
+</body>
+</html>
